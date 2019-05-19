@@ -3,8 +3,9 @@
 # @author :wangchangguan
 # @Email  :1443112278@qq.com
 # @File   :run.py
+import sys
+sys.path.append('./')
 
-#用例
 import unittest
 
 from api_2.commom import HTMLTestRunnerNew
